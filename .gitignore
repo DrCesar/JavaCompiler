@@ -1,0 +1,7 @@
+
+# Java Classes
+*.class
+
+# Gradle build folder
+.gradle/
+build/
